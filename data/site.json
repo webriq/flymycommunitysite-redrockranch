@@ -1,26 +1,26 @@
 {
   "sitedata": [
     {
-      "sitename": "Fly My Community",
+      "sitename": "Red rock Ranch",
       "icon": "/img/favicon.png",
-      "logo": "/img/logo.png",
-      "metadesc": "Trusted By Fine Real Estate Professionals",
-      "metauthor": "Fly My Community",
-      "metakeyword": "cms"
+      "logo": "https://res.cloudinary.com/fmcapp/image/upload/v1564764371/p1vng55e3mgjvdfvny6c.jpg",
+      "metadesc": "The Colorado Team",
+      "metauthor": "Andrew Botcherby",
+      "metakeyword": "The Colorado Team RE/MAX"
     }
   ],
   "content": [
     {
-      "email": "realagent@flymycommunity.com",
-      "linkcont": "032000333555",
-      "videoid": "264108042",
+      "email": "andrew@botcherby.com",
+      "linkcont": "719-231-5694",
+      "videoid": "256648912",
       "sliderbg": "/img/sliderbg.jpg"
     }
   ],
   "about": [
     {
-      "abouttext1": "Crystal Park - FMC ",
-      "abouttext2": "Crystal Park is a private gated mountain community within the Pikes Peak region. Located above Colorado Springs and adjacent to Manitou Springs.....",
+      "abouttext1": "Red Rock Ranch",
+      "abouttext2": "Red Rock Ranch drone tour",
       "aboutbg": "/img/content_bg.png"
     }
   ],
